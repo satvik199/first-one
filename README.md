@@ -1,3 +1,5 @@
 # first-one
 
-console.log("world")
+
+console.log("hello")
+
